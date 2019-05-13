@@ -1,0 +1,5 @@
+This project from code academy is a first attempt at writing code alongside the terminal, using git to save commits to your code as you work forward. Try to recreate this code from scratch, or utilize the code in order to make adjustments, or "clean it up" as you grow in experience.
+
+This program mimics a traveler program that contains various destinations they offer. Travelers' data are saved in lists containing the traveler name, they destination they visit, and the interests they hold.
+
+The code attached to this file creates a function to index each destination in that list, creates a list of attractions associated with each destination index (of which material is added in the code itself). Then it defines a function which matches a traveler's interests with the tagged attractions in their desired destination. Finally, a function is defined to produce a message which offers a new traveler with potentially interesting attractions based on the interests and desired destinations which they offer.
